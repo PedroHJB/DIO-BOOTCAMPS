@@ -4,5 +4,5 @@
 /**
  * 
  */
-module SINTAXE {
+module Sintaxe {
 }
