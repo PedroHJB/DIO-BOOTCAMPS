@@ -1,0 +1,15 @@
+C:\workspace\DIO-BOOTCAMPS\DIO-AVANADE\exemplo-fundamentos\bin\Debug\net8.0\exemplo-fundamentos.exe
+C:\workspace\DIO-BOOTCAMPS\DIO-AVANADE\exemplo-fundamentos\bin\Debug\net8.0\exemplo-fundamentos.deps.json
+C:\workspace\DIO-BOOTCAMPS\DIO-AVANADE\exemplo-fundamentos\bin\Debug\net8.0\exemplo-fundamentos.runtimeconfig.json
+C:\workspace\DIO-BOOTCAMPS\DIO-AVANADE\exemplo-fundamentos\bin\Debug\net8.0\exemplo-fundamentos.dll
+C:\workspace\DIO-BOOTCAMPS\DIO-AVANADE\exemplo-fundamentos\bin\Debug\net8.0\exemplo-fundamentos.pdb
+C:\workspace\DIO-BOOTCAMPS\DIO-AVANADE\exemplo-fundamentos\obj\Debug\net8.0\exemplo-fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DIO-BOOTCAMPS\DIO-AVANADE\exemplo-fundamentos\obj\Debug\net8.0\exemplo-fundamentos.AssemblyInfoInputs.cache
+C:\workspace\DIO-BOOTCAMPS\DIO-AVANADE\exemplo-fundamentos\obj\Debug\net8.0\exemplo-fundamentos.AssemblyInfo.cs
+C:\workspace\DIO-BOOTCAMPS\DIO-AVANADE\exemplo-fundamentos\obj\Debug\net8.0\exemplo-fundamentos.csproj.CoreCompileInputs.cache
+C:\workspace\DIO-BOOTCAMPS\DIO-AVANADE\exemplo-fundamentos\obj\Debug\net8.0\exemplo-fundamentos.sourcelink.json
+C:\workspace\DIO-BOOTCAMPS\DIO-AVANADE\exemplo-fundamentos\obj\Debug\net8.0\exemplo-fundamentos.dll
+C:\workspace\DIO-BOOTCAMPS\DIO-AVANADE\exemplo-fundamentos\obj\Debug\net8.0\refint\exemplo-fundamentos.dll
+C:\workspace\DIO-BOOTCAMPS\DIO-AVANADE\exemplo-fundamentos\obj\Debug\net8.0\exemplo-fundamentos.pdb
+C:\workspace\DIO-BOOTCAMPS\DIO-AVANADE\exemplo-fundamentos\obj\Debug\net8.0\exemplo-fundamentos.genruntimeconfig.cache
+C:\workspace\DIO-BOOTCAMPS\DIO-AVANADE\exemplo-fundamentos\obj\Debug\net8.0\ref\exemplo-fundamentos.dll
